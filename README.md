@@ -1,3 +1,3 @@
 # my_lab
-Клас Медицина містить об'єкту ціни, кількості, назви,чи потрібна наявність рецепту і дату.
-Виводить найдешевші ліки, видаляє лікарства з аптеки.
+The class Medicine contains the object price, quantity, name,whether the availability of a prescription and a date is required.
+Removes the cheapest drugs, removes doctors from the pharmacy.

@@ -12,7 +12,7 @@ private:
 public:
 	Pharmacy(int n);
 	void discount();
-	void check(string date);
+	void check_date(string date);
 	void print();
 	void printCheapiest();
 	void add();
